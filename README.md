@@ -151,5 +151,5 @@ A la classe principal s’ha de fer un menú amb les següents opcions:
 - Pasos para instalar y configurar el entorno.
   git :https://github.com/carlosPc1987
   proyecto-java
-
+Correjido por Mar Torrijos .
 -🚀🚀🚀🚀🚀🚀🚀 CarlosPc🚀🚀🚀🚀🚀🚀🚀
